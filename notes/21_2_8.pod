@@ -1,7 +1,29 @@
+=pod
+
 I can't believe I forgot about this
+
+=over 4
+
+=item
 
 starter project = module keyword and? Tuples??
 
+=item
+
 harper pfpl
--- towards end
--- see TOC
+
+=over 4
+
+=item
+
+towards end
+
+=item
+
+see TOC
+
+=back
+
+=back
+
+=cut
